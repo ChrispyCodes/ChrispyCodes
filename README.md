@@ -2,24 +2,7 @@
   <img src="https://media.giphy.com/media/13DobtLzCTj16M/giphy.gif" width="100%" height="300"/>
 </div>
 
-### 👨‍💻 About Me :
 
-- 👋 Hey, I’m Chris
-- 👀 I’m interested in creating things that help make peoples lives easier
-- 🌱 Currently learning typescript and tailwind.css
-- 💞️ I’m looking to work on fun and unique projects, maybe some health type stuff?
----
-<div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCnMzLZHcVFbIBtw6zmt6-XQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/Chrisg0o">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
 <!---
 ChrispyCodes/ChrispyCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
